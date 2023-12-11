@@ -2,7 +2,7 @@
 
 [![Image](https://github.com/abalage/php-fpm-alpine/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/abalage/php-fpm-alpine/actions/workflows/docker-publish.yml)
 
-A Dockerfile for PHP based on the official [PHP 8.1](https://hub.docker.com/_/php) FPM Alpine image. This is built for various apps with the following extensions:
+A Dockerfile for PHP based on the official [PHP 8.3](https://hub.docker.com/_/php) FPM Alpine image. This is built for various apps with the following extensions:
 
 - apcu
 - bcmath
