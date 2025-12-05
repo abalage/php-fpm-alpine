@@ -3,7 +3,7 @@
 # #############################################################################
 FROM php:8.3-fpm-alpine
 
-ENV image_version="1.1"
+ENV image_version="1.2"
 ENV PHP_VERSION=8.3
 
 LABEL maintainer="github.com/abalage" \
